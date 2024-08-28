@@ -6,7 +6,7 @@ import (
 	// "strconv"
 )
 
-func main() {
+func maisn() {
 	// var a int = 65
 
 	// var b string = string(a)

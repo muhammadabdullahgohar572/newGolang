@@ -7,7 +7,7 @@ import (
 )
 
 
-func mainx(){
+func main(){
 
 	// var a int32=10;
 

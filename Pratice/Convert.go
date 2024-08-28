@@ -34,5 +34,12 @@ func main() {
    
 	var b string= strconv.Itoa(a)
 	fmt.Printf("This is The value of a %v %T",b,b)
+	print("\n");
+	
+	var c int =65;
+
+	var d string=string(c)
+      fmt.Printf("This is The value of c %v %T",d,d)	
+
 
 }
